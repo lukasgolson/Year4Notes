@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vancouver.md",
+            "file": "UFOR 420/Urban Ecology Past Present and Future.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vancouver.md",
+                "file": "UFOR 420/Urban Ecology Past Present and Future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vancouver.md",
+                "file": "UFOR 420/Urban Ecology Past Present and Future.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vancouver.md"
+                "file": "UFOR 420/Urban Ecology Past Present and Future.md"
               }
             }
           }
@@ -132,6 +132,8 @@
   },
   "active": "282fce229b08c817",
   "lastOpenFiles": [
+    "index.md",
+    "LARC 444/Vancouver.md",
     "LARC 444/Queen Elizabeth Park.md",
     "UFOR 401/Community Agreement.md",
     "CONS 481/Worldview discussion.md",
@@ -139,8 +141,6 @@
     "Silvics & Tree Growth.md",
     "FRST 305/Silviculture in BC.md",
     "FRST 307/Biotic Disturbance Agents vs forest health.md",
-    "FRST 305/History, purpose, and use of Silviculture.md",
-    "FRST 305/FRST 305 Introduction.md",
-    "FRST 305/Definition of Silviculture.md"
+    "FRST 305/History, purpose, and use of Silviculture.md"
   ]
 }
