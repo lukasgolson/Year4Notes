@@ -33,7 +33,7 @@ What makes an insect? The body plan...
 			3. <u>Siphoning</u>
 				1. Butterfly (lepidoptera)
 				2. Fleas (Siphonaptera)
-			4. <u>Sponging<u/>
+			4. <u>Sponging</u>
 				1. House flies
 	2. Thorax
 		- Leg parts
