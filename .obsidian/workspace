@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "6be5c4b48f6ba3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "282fce229b08c817",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vancouver.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "142a286211fd786f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3615fc7aac5df7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4dd5477cdbf61ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64458e47c9565705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "118ec53dec443333",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9c8326e47053f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe32e5d93cc93397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3397f4438d7770",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vancouver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46eae11ad8e701d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vancouver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091e3a43b7480bf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b00717555344476",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vancouver.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "282fce229b08c817",
+  "lastOpenFiles": [
+    "LARC 444/Queen Elizabeth Park.md",
+    "UFOR 401/Community Agreement.md",
+    "CONS 481/Worldview discussion.md",
+    "FRST 305/Natural Stand Dynamics.md",
+    "Silvics & Tree Growth.md",
+    "FRST 305/Silviculture in BC.md",
+    "FRST 307/Biotic Disturbance Agents vs forest health.md",
+    "FRST 305/History, purpose, and use of Silviculture.md",
+    "FRST 305/FRST 305 Introduction.md",
+    "FRST 305/Definition of Silviculture.md"
+  ]
+}
