@@ -105,3 +105,16 @@ Respiratory system
 - O2 enters insect via spiracles, trachea, and tracheoles
 - Diffuses into tissues
 - Implications for body size
+
+
+
+
+
+
+=====
+[[Herbivory and disturbance]]
+
+
+
+
+
