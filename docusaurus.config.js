@@ -4,8 +4,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const wikiLinkPlugin = require('remark-wiki-link-plus');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lukas Note Site',
@@ -35,7 +33,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-			remarkPlugins: [wikiLinkPlugin],
 			routeBasePath: '/', // Serve the docs at the site's root
 			sidebarPath: require.resolve('./sidebars.js'),
         },
@@ -47,7 +44,6 @@ const config = {
     ],
   ],
   themes: ["mdx-v2"],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
