@@ -45,5 +45,5 @@ Final Exam | 30
 
 Week | Topic
 --- | ---
-1 | [[FRST 305 Introduction]],[[History, purpose, and use of Silviculture]]
+1 | [[Silviculture Introduction]],[[History, purpose, and use of Silviculture]]
 

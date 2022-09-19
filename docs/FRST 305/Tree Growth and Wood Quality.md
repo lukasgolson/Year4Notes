@@ -1,7 +1,7 @@
 # What determines growth of trees?
 - Genetics
 - Space
-	- Sunlight, CO2 -> production of Carbohydrates
+	- Sunlight, CO2 to production of Carbohydrates
 	- Constrained by:
 		- The enironment
 			- Sunlight, water, nutrients, physical space (i.e., growing space)

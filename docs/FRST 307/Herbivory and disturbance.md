@@ -18,7 +18,7 @@ Lecture outline/goals:
 	- Estimated 5-30 million
 - ~60,000 invertebrates in BC
 	- ~35,000 insects
-- <1% of insects considered pests
+- less than 1% of insects considered pests
 
 
 ## Herbivory and disturbance

@@ -22,8 +22,8 @@ Tree Defenses:
 An evolutionary arms race:
 - Trees evolve "slowly", but herbivorous insects can evolve "very quickly"
 	- In 100 years:
-		- ~Trees <= 1 generation;
-		- ~Insects >= 100 generations
+		- ~Trees less than 1 generation;
+		- ~Insects greater than 100 generations
 			- Populations of target species started to evolve resistance to the insecticide DDT over only ~7 years
 
 Why aren't all trees killed?
@@ -183,4 +183,3 @@ Induced defense: an effective barrier to invasion
 	- Depletion of sugars
 	- Formation of wound periderm
 	- Secondary resin soaks area of response
-	- 

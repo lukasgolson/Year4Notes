@@ -2,7 +2,7 @@ What is a city?
 
 What classifies as urban?
 
-Our urban world: By 2030 --> 5 billion people living in cities, 60% of the global population
+Our urban world: By 2030, greater than 5 billion people living in cities, 60% of the global population
 
 
 Industrial Revolution

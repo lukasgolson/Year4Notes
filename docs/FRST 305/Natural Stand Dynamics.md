@@ -1,7 +1,7 @@
 - Stand dynamics describe the processes of change over time in forest stand structure, including the disturbance (start and end).
 
 For example:
-Forest burns down -> regeneration -> phase where the forest density increases -> old growth
+Forest burns down then regeneration then phase where the forest density increases then old growth
 
 
 [[Terms and Definitions]]
@@ -73,4 +73,4 @@ Key Takeaways:
 
 
 Up Next:
-[[Silvics & Tree Growth]]
+[[Silvics and Tree Growth]]

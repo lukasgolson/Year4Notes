@@ -11,4 +11,4 @@ They proposed a 40 mile loop for portland
 - Suggested that the major parks should be interconnected with boulevards
 
 Legacy:
-40 Mile loop is now > 140 miles
+40 Mile loop is now greater than 140 miles

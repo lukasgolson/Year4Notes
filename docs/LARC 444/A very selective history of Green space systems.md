@@ -3,7 +3,7 @@ Frederick Olmsted (1822-1903)
 - Later with Charles Elliot
 - Firm: 1858 - 1898
 - [[Boston - Emerald Necklace]]
-- [[Olmsted=Central Park, NYC]]
+- [[Olmsted Central Park, NYC]]
 - [[First green Infrastructure]]
 
 =================
