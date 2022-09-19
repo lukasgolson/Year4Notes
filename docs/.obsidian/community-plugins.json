@@ -1,1 +1,7 @@
-[]
+[
+  "obsidian-html-tags-autocomplete",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "obsidian-link-converter",
+  "obsidian-wrap-with-shortcuts"
+]

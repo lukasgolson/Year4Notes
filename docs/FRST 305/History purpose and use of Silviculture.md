@@ -41,7 +41,7 @@ Worried the same fate would hit his mines, the mining director panicked and set 
 - 1844: Establishment of the Indian Forest Service - model for US/CA
 - End of 19th Century: Forestry schools open in North America.
 
-[[Definition of Silviculture]]
+[[FRST 305/Definition of Silviculture]]
 
 
 ### What is a Silviculture System?

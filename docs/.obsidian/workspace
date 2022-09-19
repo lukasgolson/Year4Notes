@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FRST 305/History purpose and use of Silviculture.md",
+            "file": "FRST 305/Natural Stand Dynamics.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRST 305/History purpose and use of Silviculture.md",
+                "file": "FRST 305/Natural Stand Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRST 305/History purpose and use of Silviculture.md",
+                "file": "FRST 305/Natural Stand Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRST 305/History purpose and use of Silviculture.md"
+                "file": "FRST 305/Natural Stand Dynamics.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "282fce229b08c817",
   "lastOpenFiles": [
-    "LARC 444/Boston Emerald Necklace.md",
-    "LARC 444/A very selective history of Green space systems.md",
-    "FRST 307/Tree Defence.md",
-    "FRST 307/Introduction to Entomology.md",
+    "FRST 305/Terms and Definitions.md",
+    "FRST 305/Definition of Silviculture.md",
+    "FRST 305/History purpose and use of Silviculture.md",
+    "FRST 305/Silviculture Introduction.md",
+    "FRST 305/Tree Growth and Wood Quality.md",
+    "CONS 481/Worldview discussion.md",
+    "CONS 481/The Planning Cycle.md",
     "FRST 307/Insects.md",
-    "FRST 307/Insect Taxonomy.md",
-    "FRST 307/Herbivory and disturbance.md",
-    "FRST 307/Forest health A functional definition.md",
-    "FRST 307/disturbance.md",
-    "FRST 307/Biotic Disturbance Agents vs forest health.md"
+    "CONS 481/CONS Course Introduction.md",
+    "LARC 444/Boston Emerald Necklace.md"
   ]
 }
