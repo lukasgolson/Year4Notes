@@ -1,7 +1,8 @@
 [
   "obsidian-html-tags-autocomplete",
-  "table-editor-obsidian",
-  "obsidian-linter",
   "obsidian-link-converter",
-  "obsidian-wrap-with-shortcuts"
+  "obsidian-wrap-with-shortcuts",
+  "obsidian-bellboy",
+  "find-unlinked-files",
+  "zoottelkeeper-obsidian-plugin"
 ]
