@@ -1,4 +1,5 @@
-Lecture outline/goals: 
+# Herbivory and Disturbance
+## Lecture outline/goals: 
 - How do insects cause disturbance?
 - Herbivory 
 - Forest insect “guilds”

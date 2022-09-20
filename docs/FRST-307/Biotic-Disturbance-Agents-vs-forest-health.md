@@ -1,18 +1,18 @@
-# Outline:
+# Biotic Disturance Agents VS Forest Health
+## Outline
 * Forest disturbances abiotic versus biotic
 * "Forest health" in the headlines
 * Forest health: what it really means
 
 
 
-
-"Healthy" forests require change or [[disturbance]]
+"Healthy" forests require change or [[FRST-307/disturbance]]
 - Insects and diseases have much greater impacts than wildfire
 - Disturbance annually affects many thousands of hectares
 - High public profile
 	- "Forest Health"
 
-Biotic disturbances and "forest health" in the news:
+## Biotic disturbances and "forest health" in the news:
 - the emerald ash borer
 - Forest diseases in the news: Dutch elm disease
 - Sirex Wood Wasp
@@ -26,7 +26,7 @@ Biotic disturbances and "forest health" in the news:
 - Mountain Pine Beetle
 
 
-Forest health: A closer look
+## Forest health: A closer look
 - One of the most widely used terms in ecosystem management
 - Often in the news
 - Associated with:
@@ -50,7 +50,22 @@ Natural Forest:
 	- Meets management objectives, but...
 	- Limited in all aspects of ecological function
 
-[[Forest health A functional definition]]
+[[FRST-307/Forest-health-A-functional-definition]]
 
+
+## Pathogens
+- Can cause disturbances by disrupting tree physiological processes which can result in reduced growth or mortality
+- They can attack tree roots, stems, branches, foliage, and the vascular system
+
+### Dont always kill trees, they can also reduce tree growth
+- Pathogens can reduce tree growth by reducing leaf area and decreasing photosynthesis
+- Also steal resources from the host
+- Cause tree deformities, which weakens host
+
+
+## 50 WAYS TO KILL A TREE
+- Disurpting water transport by blocking vascular system
+- Kill roots and cause major structural damage
+- Girdle stems, killing the living tissues of trees
 
 
