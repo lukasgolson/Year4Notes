@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md",
+            "file": "FRST-307/Herbivory-and-disturbance.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md",
+                "file": "FRST-307/Herbivory-and-disturbance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md",
+                "file": "FRST-307/Herbivory-and-disturbance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md"
+                "file": "FRST-307/Herbivory-and-disturbance.md"
               }
             }
           }
@@ -133,14 +133,14 @@
   "active": "1c701faaf189deb2",
   "lastOpenFiles": [
     "FRST-307/Forest-health-A-functional-definition.md",
-    "FRST-307/FRST-307.md",
     "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md",
-    "FRST-307/Tree-Defence.md",
-    "FRST-307/Introduction-to-Entomology.md",
-    "FRST-307/Insects.md",
-    "FRST-307/Insect-Taxonomy.md",
-    "FRST-307/Herbivory-and-disturbance.md",
-    "FRST-307/disturbance.md",
-    "FRST-307/Forest health A functional definition.md"
+    "index.md",
+    "docs.md",
+    "Wiki-main/Wiki-main.md",
+    "Wiki-main/home.md",
+    "Wiki-main/Courses/UFOR316.md",
+    "Wiki-main/Courses/UFOR300.md",
+    "Wiki-main/Courses/FRST385.md",
+    "Wiki-main/Courses/CONS340.md"
   ]
 }
