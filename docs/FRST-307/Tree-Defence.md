@@ -27,7 +27,8 @@ An evolutionary arms race:
 		- ~Insects greater than 100 generations
 			- Populations of target species started to evolve resistance to the insecticide DDT over only ~7 years
 
-Why aren't all trees killed?
+
+## Why aren't all trees killed?
 - Constraints on insect fitness:
 	- Environment (e.g. climatic suitability)
 	- Host availability
@@ -49,7 +50,7 @@ Why aren't all trees killed?
 
 
 
-Two different forms:
+## Two different forms:
 - Constitutive:
 	- Passive preformed defenses
 		- Physical 
@@ -112,25 +113,29 @@ Three groups of secondary metabolites
 	- Pinenes
 
 #### Tree defense: symbionts:
-Ants:
+##### Ants:
 - e.g., swollen-thorn acacia
-- Pseudomyrmex ants protect the tree as it provides them living space (hallow thorns) and food
+- Pseudomyrmex ants protect the tree as it provides them living space (hallow thorns) and protein-rich food (Beltian bodies)
 
 
-Epiphytes:
+##### Epiphytes:
 - Microorganisms on leaf surfaces
 - Bacteria and fungi
 	- Prevents herbivory/infection
 
-Endophytes
+##### Endophytes
 - primarily fungi
 - ubiquous in vascular plants
 - Systemic infections prevent herbivory
+	- Herbivory
+	- Drying
 
 
-Natural enemy manipulation:
+##### Natural enemy manipulation:
 - Plants attract insect herbivore natural enemies
 	- Herbivory stimulates release of volatile chemicals
+	- Parasitoid wasps attracted to injured plant
+- 
 
 
 
@@ -184,3 +189,5 @@ Induced defense: an effective barrier to invasion
 	- Depletion of sugars
 	- Formation of wound periderm
 	- Secondary resin soaks area of response
+- Seals invading organisms in lesion of dead tissue
+- Occurs fast in healthy trees, slow in unhealthy trees

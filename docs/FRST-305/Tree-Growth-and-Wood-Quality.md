@@ -86,8 +86,27 @@ Defense:
 Physical support of the crown
 
 
-# Stem growth
+## Stem growth
 - Ring width decreases towards the bark
 - High quality wood with narrow rings grows on old trees
 - Ring width by stem height:
 	- Thicker rings at the top
+
+
+## Wood Density
+- Indicator for strength, stiffness, pulp yield, etc.
+- Strong effect of ring age:
+	- Juvenile vs. mature wood
+
+Branch Thickness:
+Thick branches develop when physical space is abundant
+
+- Branch thickness is top indicator of wood quality
+
+## Takeaways
+- Primary and secondary growth are low priority for trees
+- Allocation to secondary growth is reduced for trees with smaller crowns
+- Crown characteristics are key variables to predict future productivity
+- Stem form is influenced by genetics and the environment
+- Important to manage for stem form and select for apical dominance
+- Wood quality is higher on trees with smaller rings and low proportion of juvenille wood (older trees)
