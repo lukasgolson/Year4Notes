@@ -2,7 +2,7 @@
 [[LARC 444/Queen Elizabeth Park]]
 
 
-1928:
+## 1928:
 Hired Harland Barthalomew Associates to draft a plan for the City of Vancouver
 - Topics in plan:
 	- Population Growth
@@ -37,7 +37,7 @@ Hired Harland Barthalomew Associates to draft a plan for the City of Vancouver
 	- Civic Art
 
 
-1992 Urban Landscape Task Force
+## 1992 Urban Landscape Task Force
 - Understand the values of the urban landscape and recommend how to manage, protect, and enhance it
 	- Recommendations (select):
 		- Establish urban greenways
@@ -49,3 +49,15 @@ Hired Harland Barthalomew Associates to draft a plan for the City of Vancouver
 		- Ecological performance standards
 		- Promote the urban forest
 		- Cultivate the city of gardens
+
+
+## Vancouver Park Classifications:
+- Destination (greater than 20 ha, many amenities)
+	- 5 of these; E.g., Stanley Park
+- Community (6.4 ha, 6-15 amenities)
+	- 101 of these: E.g., English bay park
+- Neighborhood (2.6 ha, 3-7 ameniites)
+	- 50 of these: E.g., Maple Park
+- Local (.54 ha, under 4 amenities)
+	- E.g., Ash Park
+- Urban Plaza (.4 ha, under 3 amenities)

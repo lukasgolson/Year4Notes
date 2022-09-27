@@ -181,3 +181,147 @@ Tree defenses
 	- Induced resinosus
 		- Cellular necrosis (autolysis) and release of toxins
 	- Defense = vigour
+
+
+#### Symbionts
+Evolved to carry one or more species of fungi
+
+Symbiosis: two unlike organisms living together for mutual benefit
+All bark beetles carry symbiotic organisms - mostly fungi
+Mutual benefits
+fungi | beetle
+-- | --
+Transport to new host | tree pathogen
+blank | habitat modification
+ blank | nutrition
+ 
+ Mycangia (adj. = mycangial)
+ - structures that carry and sometimes nurture fungal spores
+ - Located mainly on head or mouthparts
+
+Phoresy (ad. = phoretic)
+- Spores carried on body
+
+
+#### Semiochemicals:
+- Chemical messengers
+	- Insect-modified tree defenses
+	- Pheremones: Cause a specific reaction in a receiving organism of the same species
+		- E.g. aggregation, anti-aggregation
+	- Kairomones: Evoke in the receiver a reaction that favours the receiver but not the emitter
+		- E.g. host/prey location
+	- Allomones: Evoke in the receiver a reaction that favours the emitter, but not the receiver
+		- E.g. interspecific territoriality
+	- Potential multifunctionality
+		- E.g., one species' pheremone = another species' kairomone
+
+
+#### Competition
+- Intraspecific competition significant density-dependent mortality
+- Optimal attack density to overcome tree resistance before competitive effects
+- MEchanisms to minimize overcrowding: stridulation (chirping)
+
+Resource quality:
+- Tree quality = phloem thickness
+	- Better nutrition
+	- Less competition
+	- Faster development
+	- More offspring
+
+
+
+
+#### Abiotic mortality factors
+- Largest source of mortality following colonization
+- Primarily temperature related
+	- Direct effects on beetles
+		- Growth and development
+		- Survival
+	- Indirect effects on host trees
+		- Phloem moisture
+	- Beetle adaptations:
+		- Diapause
+		- Cold tolerance
+	- Cold-related mortality greatest during unseasonable events
+		- E.g. cold snaps in autumn or spring
+
+
+
+## Bark Beetle Management
+Sampling bark beetles
+- Pheremone-baited multple funnel traps (i.e. Lindgren traps)
+	- Best for presence/absence detection (i.e. monitoring)
+		- Pheremones only 1 cue considered by foraging beetles
+- Aerial and ground surveys
+	- Aerial (low altitude fixed- or rotary-wing aircraft) detection of last years red attacked trees followed by ground surveys to detect new green attacks
+		- Trees attacked in one year do not reliably show symptoms in crowns until the following year once beetles have finished development
+		- Red attack tree = where beetles were not are
+		- Green attack trees = signs of beetle colonization on bole only
+- Aerial overview surveys
+	- Since 1959, BC has employed annual aerial surveys. Some of the best data in the world.
+	- Broad (high altitude fixed-wing aircraft); surveys of landscapes to assess population distribution and tree mortality
+	- Suitable for extensive epidemics
+- Remote sensing
+	- Much promise, slow adoption
+
+#### Two approaches
+- (indirect) Modify existing stands to make them less good for beetles
+- (direct) Or look for problematic populations and manipulate those populations
+
+
+
+- Indirect control (proactive) = management of populations through tactics that reduce forest susceptibility (not yet widely operational, but is what we should be doing)
+	- GET NOTES FROM SLIDES
+- Direct control (reactive) = management of populations through tactics that kill populations early
+	- Reduction of beetle pop'n
+	- Strategy = population reduction greater than yearly population increase
+	- Tactics:
+		- Chemical tactics **irrelevant and unacceptable**
+			- Bark beetles live under the bark of trees and are not exposed to any chemicals we could apply
+			- Not legal in Canada
+			- Environmental concerns
+		- Cultural/mechanical tactics
+			- Fire
+				- Single trees felled, bucked, and burned on stump
+				- Broadcast burning - unsuitable for direct control
+					- Crown fires required for significant beetle mortality
+			- Debarking
+			- Harvesting and processing
+				- Single trees
+				- Stands - sanitation logging
+				- Trap trees (note: spruce beetle, Douglas-fir beetle only)
+					- Leave highly susceptible trees/logs behind for beetles to infest, followed by prompt removal and destruction
+			- Semiochemical tactics (in combination with above)
+				- "post-logging mop up" -- aggregation pheremones in residual trees after logging
+				- "Containment and concentration" - aggregation pheremones in harvest blocks before logging
+				- "Push-pull" - anti-aggregation pheremones in unharvested areas, aggregation pheremones in harvest blocks
+
+
+### Management Theory
+Direct control: a framework for success
+- Rate of Increase (R) = 2 == roughly 500 trees killed by year 10
+	- 190 rees saved by removal of 3 of 8 infested trees in year 4
+		- Population continues to increase though
+- Control must exceed rate of increase
+- P greater than 1-1/R (R = rate of increase) (P = proportion of trees treated)
+- How much is enough?
+	- Use credit card payment formulas
+
+#### Examples of success
+Banf, Alberta - 1940's
+- Incipient MPB epidemic
+- Entomologist + very large crews
+- All trees surveyed over 2 years, infested trees destroyed
+- Epidemic suppressed by year 3
+
+
+#### Take home messages
+- Successful direct control strategies require detailed knowledge of:
+	- Population size (and location)
+	- Potential rate of increase
+		- Look under bark and record how many eggs laid by females
+		- Alternatively, look at spread
+	- Direct control tactics must:
+		- Be early and aggressive
+		- Treat more than the anticipated growth in the pop'n given its size and rate of increase
+		- Persist as long as causes of pop'n increase remain operative (or until management objectives are achieved)

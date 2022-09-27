@@ -59,17 +59,7 @@ Unstructured play | Biodiversity
 Smaller areas tend to be more human oriented, while larger areas tend to have more ecosystem-oriented usage.
 
 
-
-Vancouver Park Classifications:
-- Destination (greater than 20 ha, many amenities)
-	- 5 of these; E.g., Stanley Park
-- Community (6.4 ha, 6-15 amenities)
-	- 101 of these: E.g., English bay park
-- Neighborhood (2.6 ha, 3-7 ameniites)
-	- 50 of these: E.g., Maple Park
-- Local (.54 ha, under 4 amenities)
-	- E.g., Ash Park
-- Urban Plaza (.4 ha, under 3 amenities)
+## [[LARC-444/Vancouver]]
 
 
 "Naturalness"

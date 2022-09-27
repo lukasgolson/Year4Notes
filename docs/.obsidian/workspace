@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CONS-481/Communication-skills.md",
+            "file": "FRST-307/Defoliators.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONS-481/Communication-skills.md",
+                "file": "FRST-307/Defoliators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONS-481/Communication-skills.md",
+                "file": "FRST-307/Defoliators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONS-481/Communication-skills.md"
+                "file": "FRST-307/Defoliators.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "c167f43b95a1463f",
   "lastOpenFiles": [
+    "FRST-307/Bark-Beetles.md",
+    "FRST-307/Lab-2.md",
+    "LARC-444/Open-Space.md",
+    "LARC-444/Vancouver.md",
+    "CONS-481/Communication-skills.md",
     "CONS-481/The-Planning-Cycle.md",
     "FRST-305/Competition-and-silvics.md",
-    "FRST-307/Bark-Beetles.md",
     "FRST-307/Sceloritization.md",
     "FRST-307/Roots-and-Boring-Insects.md",
-    "Old-Wiki/Old-Wiki.md",
-    "FRST-307/instars.md",
-    "FRST-305/Tree-Growth-and-Wood-Quality.md",
-    "FRST-305/Silvics-and-Tree-Growth.md",
-    "FRST-307/Tree-Defence.md"
+    "Old-Wiki/Old-Wiki.md"
   ]
 }
