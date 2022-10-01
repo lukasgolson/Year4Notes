@@ -7,8 +7,6 @@ Plants are not passive partners when getting munched on/hurt by disturbances
 
 The way that plants and animals interact may have impacted nearly all animal evolution
 
-
-
 Tree Defenses:
 - Lecture outline:
 	- General introduction, the "green tree parodox"
@@ -51,38 +49,42 @@ An evolutionary arms race:
 
 
 ## Two different forms:
-- Constitutive:
-	- Passive preformed defenses
-		- Physical 
-			- Bark
-			- Stone cells
-			- Thorns
-			- Trichomes
-			- Oleoresin/Latex
-			- Leaf toughness
-				- Cellulose
-				- Mineral Inclusion
-		- Chemical
-	- Developed simply by growing
-		- E.g., spines/thorns
-		- E.g., resinous blisters on Abies
-- Induced:
-	- Active defensive response
-		- Mostly Chemicals
+
+### Constitutive:
+- Passive preformed defenses
+	- Physical 
+		- Bark
+		- Stone cells
+		- Thorns
+		- Trichomes
+		- Oleoresin/Latex
+		- Leaf toughness
+			- Cellulose
+			- Mineral Inclusion
+	- Chemical
+- Developed simply by growing
+	- E.g., spines/thorns
+	- E.g., resinous blisters on Abies
+
+### Induced:
+- Active defensive response
+	- Released when tree detects that it is being harmed
+	- Mostly Chemicals
 		- Energetically costly to produce
 			- Suppressed trees or those without excess energy stores are at a disadvantage
-		- Released when tree detects that it is being harmed
 
 
 
-#### Chemical Defense (constitutive and induced)
+
+## Chemical Defense
+### Chemical Defense (constitutive and induced)
 - Secondary metabolites: organic compounds that do not have function in growth and development
 	- Plant-plant competition (allelochemicals)
 	- Plant microbe symbiosis
 	- Attractants
 		- Defense against pathogens
 
-### Constitutive:
+### Constitutive chemical defense:
 - Chemicals released from preformed structures due to injury
 	- Deter/hinder feeding
 	- Reduce digestibility of tissues (e.g. tannin)
@@ -94,6 +96,7 @@ An evolutionary arms race:
 - Induced
 	- Chemicals produced by living tissues in response to injury
 		- Toxins intended to kill
+
 
 ### Induced chemical defense:
 - Active response to injury
@@ -112,7 +115,8 @@ Three groups of secondary metabolites
 	- Saponins
 	- Pinenes
 
-#### Tree defense: symbionts:
+
+## Tree Defence: symbionts:
 ##### Ants:
 - e.g., swollen-thorn acacia
 - Pseudomyrmex ants protect the tree as it provides them living space (hallow thorns) and protein-rich food (Beltian bodies)
@@ -135,11 +139,10 @@ Three groups of secondary metabolites
 - Plants attract insect herbivore natural enemies
 	- Herbivory stimulates release of volatile chemicals
 	- Parasitoid wasps attracted to injured plant
-- 
 
 
 
-# Redundant lines of defense:
+## Redundant lines of defense:
 -Conifer defense mechanisms redundancies:
 	- First line (constitutive) = bark, stone cells
 		- Physical
@@ -149,7 +152,7 @@ Three groups of secondary metabolites
 		- Chemical
 
 
-# Effects of resinosis
+## Effects of resinosis
 - Physical barrier
 	- Viscous
 	- Rapid crystalization
@@ -160,7 +163,7 @@ Three groups of secondary metabolites
 	- Digestion inhibition
 
 
-## Primary resin
+### Primary resin
 - Constitutive defense
 - Preformed compounds
 	- Oleoresin
@@ -173,7 +176,7 @@ Three groups of secondary metabolites
 		- Basis for resistance selection
 
 
-## Secondary resin
+### Secondary resin
 - Induced defense
 	- Parenchyma cells lyse (rupture)
 	- Resin canals increase in size and number

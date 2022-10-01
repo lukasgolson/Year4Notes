@@ -22,6 +22,9 @@ Generally mono- to oligophagous
 Most commonly associated with conifers as disturbance agents
 - High diversity in conifer ecosystems
 
+
+
+
 ## Roles and impacts
 Consumption of phloem tissue kills part or all of a tree
 
@@ -86,13 +89,11 @@ Males
 
 
 #### Brood production 3
-- Larvae feed and develop through several [[FRST-307/instars]]
+- Larvae feed and develop through several instars [[FRST-307/Definitions]]
 - Pupation occurs in enlarged chambers at the end of larval galleries or in common feeding area
-- Young (i.e. tuneral) adults often feed to complete maturation (increase flight muscles, acquire symbionts, sclerotize)
+- Young (i.e. tuneral) adults often feed to complete maturation (increase flight muscles, acquire symbionts, sclerotize (harden))
 - Mature adults cut exit hole to outside
 - Maturation feeding may involve other plant parts (e.g. European elm bark beetle)
-
-[[FRST-307/Sceloritization]]
 
 
 #### Brood production 4
@@ -325,3 +326,5 @@ Banf, Alberta - 1940's
 		- Be early and aggressive
 		- Treat more than the anticipated growth in the pop'n given its size and rate of increase
 		- Persist as long as causes of pop'n increase remain operative (or until management objectives are achieved)
+
+

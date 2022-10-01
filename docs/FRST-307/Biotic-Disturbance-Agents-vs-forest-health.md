@@ -5,7 +5,6 @@
 * Forest health: what it really means
 
 
-
 "Healthy" forests require change or [[FRST-307/disturbance]]
 - Insects and diseases have much greater impacts than wildfire
 - Disturbance annually affects many thousands of hectares
@@ -69,3 +68,12 @@ Natural Forest:
 - Girdle stems, killing the living tissues of trees
 
 
+
+
+# Forest Health: A Functional Definition
+- Values create conflicts!
+- Need a definition without human expectations:
+A working definition:
+- Forest ecosystems are healthy when their underlying ecological processes operate within a natural range of variability, so that on any temporal or spatial scale, they are dynamic and resilient* to disturbance
+
+* If an ecosystem is resistant to disturbance and returns to a similar pre-disturbance state, it is considered resilient

@@ -8,7 +8,7 @@
   "cleanPathBoolean": true,
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
-  "enableEmojis": false,
+  "enableEmojis": true,
   "foldersExcluded": "",
   "foldersIncluded": "",
   "sortOrder": "asc",
