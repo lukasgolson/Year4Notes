@@ -272,8 +272,17 @@ Sampling bark beetles
 
 
 - Indirect control (proactive) = management of populations through tactics that reduce forest susceptibility (not yet widely operational, but is what we should be doing)
-	- GET NOTES FROM SLIDES
+	- Long term
+	- Species and/or age mosaics
+		- Harvesting/prescribed fires
+	- Stand modification (silviculture)
+		- Host removal from mixed stands
+		- Vigour maintenance for "pre-susceptible" stands (e.g., pre-commercial thinning)
+			- Spacing to increase vigour of susceptible stands
+			- Indirect control is irrelevant **during** outbreaks because too many beetles
+
 - Direct control (reactive) = management of populations through tactics that kill populations early
+	- Short term
 	- Reduction of beetle pop'n
 	- Strategy = population reduction greater than yearly population increase
 	- Tactics:

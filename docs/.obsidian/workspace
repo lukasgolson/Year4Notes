@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FRST-307/Defoliators.md",
+            "file": "FRST-307/Bark-Beetles.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRST-307/Defoliators.md",
+                "file": "FRST-307/Bark-Beetles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRST-307/Defoliators.md",
+                "file": "FRST-307/Bark-Beetles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRST-307/Defoliators.md"
+                "file": "FRST-307/Bark-Beetles.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "c167f43b95a1463f",
   "lastOpenFiles": [
+    "FRST-307/Defoliators.md",
     "FRST-307/Definitions.md",
     "FRST-307/Biotic-Disturbance-Agents-vs-forest-health.md",
     "FRST-307/Bark-Beetles.md",
@@ -140,7 +141,6 @@
     "FRST-307/Insects.md",
     "FRST-307/FRST-307.md",
     "FRST-307/Tree-Defence.md",
-    "FRST-307/Note-Order.md",
-    "FRST-307/Herbivory-and-disturbance.md"
+    "FRST-307/Note-Order.md"
   ]
 }
