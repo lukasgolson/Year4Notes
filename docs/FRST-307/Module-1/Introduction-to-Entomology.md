@@ -1,6 +1,6 @@
 # Introduction to Entomology
 ## Lesson Outline:
-- What are [[FRST-307/insects]]
+- What are [[Insects]]
 - Insect body plan
 - Reproduction
 - Development & Growth

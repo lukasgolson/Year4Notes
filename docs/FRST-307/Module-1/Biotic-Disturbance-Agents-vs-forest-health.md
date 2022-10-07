@@ -5,7 +5,7 @@
 * Forest health: what it really means
 
 
-"Healthy" forests require change or [[FRST-307/disturbance]]
+"Healthy" forests require change or [[disturbance]]
 - Insects and diseases have much greater impacts than wildfire
 - Disturbance annually affects many thousands of hectares
 - High public profile
@@ -77,3 +77,40 @@ A working definition:
 - Forest ecosystems are healthy when their underlying ecological processes operate within a natural range of variability, so that on any temporal or spatial scale, they are dynamic and resilient* to disturbance
 
 * If an ecosystem is resistant to disturbance and returns to a similar pre-disturbance state, it is considered resilient
+
+## Warming and forests: The conundrum
+Increased productivity but increased biotic and abiotic disturbances
+
+
+## Disturbance vs C dynamics in Canada's forests
+- large insect impacts in recent years
+- Insects greater than fire + harvesting
+- Significant impacts on C dynamics
+- Biotic disturbance creates carbon source
+
+
+
+## Disturbance vs C dynamics: The Mountain Pine Beetle Example
+Modelling C dynamics in forests through time as a result of disturbance
+- Harvesting
+- Fire-caused mortality, fuel consumption
+- MPB-caused mortality
+Project growth of forests in western Canada post disturbance to assess changes in C balance
+
+
+Mountain Pine Beetle
+- 270 Mt C to atmosphere
+- Equilavent to 5 yrs of emissions from Canadian transportation sector
+- Conversion of BC forests from C sink to source
+- Unprecedented outbreak: potential feedback to global climate system
+
+
+## Mitigation options in the forest sector
+- Increase or maintain forest area
+	- Reduce deforestation and mitigate disturbance, increase afforestation
+- Increase stand-level carbon density
+	- Increase use of partial harvest systems, eliminate residue burning, reduce regeneration delays, species selection, mitigate disturbance
+- Increase stored carbon in products, reduce emissions through product substitution and bioenergy
+	- Promote longer-lived products, building materials, recycling, biofuels from residues, salvage, plantations
+- Increase landscape-level carbon density
+	- Lengthen rotations (where appropriate), increase conservation areas, **protect against disturbance**
