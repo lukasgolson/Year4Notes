@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FRST-307/Labs/Lab-4.md",
+            "file": "FRST-307/Population-Dynamics.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRST-307/Labs/Lab-4.md",
+                "file": "FRST-307/Population-Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRST-307/Labs/Lab-4.md",
+                "file": "FRST-307/Population-Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRST-307/Labs/Lab-4.md"
+                "file": "FRST-307/Population-Dynamics.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "c167f43b95a1463f",
   "lastOpenFiles": [
+    "FRST-307/Labs/Lab-4.md",
     "CONS-481/Value-weight-elicitation.md",
     "FRST-305/Silvicultural-Systems.md",
     "FRST-307/Module-1/Biotic-Disturbance-Agents-vs-forest-health.md",
@@ -140,7 +141,6 @@
     "FRST-307/FRST-307.md",
     "FRST-307/Module-1/Definitions.md",
     "FRST-307/Module-1/Bark-Beetles.md",
-    "FRST-305/Growth-and-Yield-Modelling.md",
-    "FRST-305/History-purpose-and-use-of-Silviculture.md"
+    "FRST-305/Growth-and-Yield-Modelling.md"
   ]
 }
