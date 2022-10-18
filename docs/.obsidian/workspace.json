@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "6be5c4b48f6ba3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe237f52a1c180a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbb1690d4dc89de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LARC-444/transit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "142a286211fd786f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3615fc7aac5df7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4dd5477cdbf61ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64458e47c9565705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "118ec53dec443333",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9c8326e47053f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe32e5d93cc93397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3397f4438d7770",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LARC-444/transit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46eae11ad8e701d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LARC-444/transit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091e3a43b7480bf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b00717555344476",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LARC-444/transit.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1fbb1690d4dc89de",
+  "lastOpenFiles": [
+    "LARC-444/Olmsted-Brothers-Seattle.md",
+    "LARC-444/Frederick-Todd.md",
+    "LARC-444/LARC-444.md",
+    "LARC-444/Vancouver.md",
+    "LARC-444/Queen-Elizabeth-Park.md",
+    "LARC 444/Queen Elizabeth Park.md",
+    "FRST-305/harvestCycle.png",
+    "FRST-305/History-purpose-and-use-of-Silviculture.md",
+    "FRST-305/silvicultureInBC.png",
+    "FRST-305/FRST-305.md"
+  ]
+}
