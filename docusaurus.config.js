@@ -7,7 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const wikiLinkPlugin = require('remark-wiki-link-plus');
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+
+async function createConfig() {
+const math = (await import('remark-math')).default;
+const katex = (await import('rehype-katex')).default;
+return {
+	
   title: 'Lukas Note Site',
   tagline: 'Howdy Friend!',
   url: 'https://notes.olson.greyblockgames.com',
@@ -35,9 +40,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-			remarkPlugins: [
-			[wikiLinkPlugin, {htmlSpace: ' '}],
-			],
+			remarkPlugins: [wikiLinkPlugin, math],
+			rehypePlugins: [katex],
 			routeBasePath: '/', // Serve the docs at the site's root
 			sidebarPath: require.resolve('./sidebars.js'),
         },
@@ -48,7 +52,15 @@ const config = {
       }),
     ],
   ],
-  
+  stylesheets: [
+  {
+    href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+    type: 'text/css',
+    integrity:
+      'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+    crossorigin: 'anonymous',
+  },
+],  
   themes: ['mdx-v2'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -78,5 +90,6 @@ const config = {
       },
     }),
 };
+}
 
-module.exports = config;
+module.exports = createConfig;
