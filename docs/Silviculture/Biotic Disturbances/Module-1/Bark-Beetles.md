@@ -89,7 +89,7 @@ Males
 
 
 #### Brood production 3
-- Larvae feed and develop through several instars [[Definitions]]
+- Larvae feed and develop through several instars [[Silviculture/Biotic Disturbances/Module-1/Definitions]]
 - Pupation occurs in enlarged chambers at the end of larval galleries or in common feeding area
 - Young (i.e. tuneral) adults often feed to complete maturation (increase flight muscles, acquire symbionts, sclerotize (harden))
 - Mature adults cut exit hole to outside
