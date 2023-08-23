@@ -98,6 +98,7 @@ function isOpeningTag(tag_match) {
 }
 
 // src/editor_suggest.ts
+var SELF_CLOSING_TAGS = ["br", "hr"];
 var HtmlTagsAutocompleteSuggestor = class extends import_obsidian.EditorSuggest {
   constructor(app) {
     super(app);
@@ -108,6 +109,9 @@ var HtmlTagsAutocompleteSuggestor = class extends import_obsidian.EditorSuggest 
     }
     const cursor_tag = cursorTag(cursor, editor);
     if (!cursor_tag) {
+      return null;
+    }
+    if (SELF_CLOSING_TAGS.includes(cursor_tag[2])) {
       return null;
     }
     const pair_tag = matchingTag(cursor_tag);
