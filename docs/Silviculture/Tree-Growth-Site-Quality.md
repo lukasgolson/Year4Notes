@@ -21,7 +21,7 @@ Calculating site index with the site curve method:
 
 
 Limitations of site index:
-- Most useful in even0aged, single species conifer stands
+- Most useful in even aged, single species conifer stands
 	- Crown shape affects height measurements
 	- more than 30 years of DBH-age needed
 

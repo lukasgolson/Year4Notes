@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fbb1690d4dc89de",
+            "id": "f62c2afa737bab8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Silviculture/Tree-Growth-and-Wood-Quality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tree-Growth-and-Wood-Quality"
             }
           }
         ]
@@ -34,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +63,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -66,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computing/Deep Learning with Yuwei and Harry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deep Learning with Yuwei and Harry"
             }
           },
           {
@@ -105,9 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computing/Deep Learning with Yuwei and Harry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deep Learning with Yuwei and Harry"
             }
           },
           {
@@ -118,7 +149,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +159,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computing/Deep Learning with Yuwei and Harry.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deep Learning with Yuwei and Harry"
+            }
+          },
+          {
+            "id": "c4b876fc805dcfd8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -149,34 +200,37 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "1fbb1690d4dc89de",
+  "active": "f62c2afa737bab8f",
   "lastOpenFiles": [
+    "Silviculture/Growth-and-Yield-Modelling.md",
+    "Silviculture/Natural-Stand-Dynamics.md",
+    "Workshop.md",
+    "Silva21.md",
+    "index.md",
+    "Improvements.md",
+    "docs.md",
+    "City Planning/Urban Forestry/Arboriculture/Nursery-Production.md",
+    "Silviculture/Terms-and-Definitions.md",
+    "Silviculture/Tree-Growth-Site-Quality.md",
+    "Silviculture/Plant-Size-and-Density.md",
+    "Silviculture/History-purpose-and-use-of-Silviculture.md",
+    "Silviculture/Ecology-of-Natural-Regeneration.md",
+    "Silviculture/Definition-of-Silviculture.md",
+    "Silviculture/Competition-and-silvics.md",
+    "GIS/Projection.md",
+    "Hydrology/Definitions.md",
+    "Untitled",
+    "Computing/Computing.md",
+    "Computing",
+    "Computing/Deep Learning with Yuwei and Harry.md",
+    "Communications",
     "Hydrology/Rating Curves.md",
     "Hydrology/Runoff.md",
     "Hydrology/Infiltration.md",
     "Hydrology/Atmospheric Pressure.md",
     "Hydrology/Radiant Energy.md",
     "Hydrology/Watersheds.md",
-    "Hydrology/Definitions.md",
     "GIS/GIS.md",
-    "GIS/GPS.md",
-    "GIS/Metadata.md",
-    "GIS/home.md",
-    "GIS/Model Classes.md",
-    "GIS/Organizing Data.md",
-    "GIS/Components.md",
-    "GIS/GIS Course.md",
-    "GIS/Rasters.md",
-    "GIS/SQL.md",
-    "GIS/Projection.md",
-    "GIS/Lecture-15.md",
-    "City Planning/Green Infrastructure.md",
-    "City Planning/Urban Forestry/Arboriculture/ISA Exam.md",
-    "City Planning/Urban Forestry/Arboriculture/Urban Planting.md",
-    "Course Work/Old-Wiki.md",
-    "Course Work/Course Work.md",
-    "City Planning/Urban Forestry/Stakeholder Planning/strategic-thinking.md",
-    "Course Work/UFOR402/UFOR402.md",
     "City Planning/Urban Forestry/Arboriculture/water_movement_in_soils.pdf",
     "Silviculture/harvestCycle.png",
     "Silviculture/silvicultureInBC.png"

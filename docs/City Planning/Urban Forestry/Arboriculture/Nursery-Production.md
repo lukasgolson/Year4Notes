@@ -68,7 +68,7 @@ Cons
 
 -   5 - 10% of roots harvested
 -   Best to transplant while dormant
--   Summer t'plant not recommended
+-   Summer plant not recommended
 -   Can't really tell what's deep in the ball - hard to inspect
 -   "Deep in the ball" - only getting a very tiny portion of the roots
     at the bottom half of the ball.
